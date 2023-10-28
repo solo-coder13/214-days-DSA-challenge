@@ -1,7 +1,6 @@
 #include <cstdio>
 
 int main(){
-
     long a(0), x(0), y(0); scanf("%ld %ld %ld", &a, &x, &y);
    
     long output(-1);
