@@ -12,7 +12,6 @@ bool checkDigits(long x, int a, int b){
 }
 
 int main(){
-
     const ll M = 1000000007;
 
     int a, b; long n; scanf("%d %d %ld\n", &a, &b, &n);
