@@ -10,7 +10,6 @@
         /* code */
         char ch=(char)('A'+j);
         cout<<ch<<endl;
-       
      }
     }
     
